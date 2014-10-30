@@ -88,9 +88,9 @@ public class KNearestNeighbors {
 				Iterator it = pQueue.iterator();
 				while(it.hasNext()) {
 					Pair<Integer, Double> tt = (Pair<Integer, Double>) it.next();
-					System.out.print(tt.getL() + " " + tt.getR() + " , ");
+					//System.out.print(tt.getL() + " " + tt.getR() + " , ");
 				}
-				System.out.println();
+				//System.out.println();
 				count++;
 			}
 		}
