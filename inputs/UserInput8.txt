@@ -1,0 +1,52 @@
+15
+1
+Boots -> Black
+1
+Coat -> Gray
+1
+Jeans -> Black
+1
+Scarf -> Gray
+1
+Shirt -> Black
+2
+Boots -> Black
+Coat -> Gray
+2
+Coat -> Gray
+Jeans -> Black
+2
+Jeans -> Black
+Scarf -> Gray
+2
+Scarf -> Gray
+Shirt -> Black
+2
+Boots -> Black
+Shirt -> Black
+3
+Boots -> Black
+Coat -> Gray
+Jeans -> Black
+3
+Coat -> Gray
+Jeans -> Black
+Scarf -> Gray
+3
+Jeans -> Black
+Scarf -> Gray
+Shirt -> Black
+3
+Boots -> Black
+Scarf -> Gray
+Shirt -> Black
+3
+Boots -> Black
+Coat -> Gray
+Shirt -> Black
+--------------
+Boots -> Black
+Coat -> Gray
+Jeans -> Black
+Scarf -> Gray
+Shirt -> Black

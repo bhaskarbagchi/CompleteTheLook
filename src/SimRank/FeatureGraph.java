@@ -7,6 +7,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
@@ -239,6 +240,27 @@ public class FeatureGraph {
 		return nodeCounts;
 	}
 
+	@SuppressWarnings("rawtypes")
+	public void writeEdgeList() {
+		for(int i = 0; i<nodeCounts; i++) {
+			Map aux = outLinks(i);
+			if(aux.size() != 0){
+				Iterator it2 = aux.keySet().iterator();
+				while(it2.hasNext()) {
+					int to = (int) it2.next();
+					Double wt = (Double)(aux.get(to));
+					if(wt.doubleValue() > 0) {
+						System.out.print(i);
+						System.out.print(" ");
+						System.out.print(to);
+						System.out.print(" ");
+						System.out.print(wt.doubleValue());
+						System.out.println();
+					}
+				}
+			}
+		}
+	}
 	/**
 	 * Generic class to store pairs
 	 * 

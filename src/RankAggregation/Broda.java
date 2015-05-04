@@ -14,6 +14,9 @@ public class Broda {
 		int m = individualRankings.size();
 		int k = individualRankings.get(0).size();
 		int max = m * k;
+		//debug
+		max = m * 5;
+		//end debug
 		Comparator<Pair<Integer, Integer>> comparator = new PairComparator();
 		ArrayList<Integer> aggregated = new ArrayList<Integer>();
 		ArrayList<Pair<Integer, Integer>> members = new ArrayList<Pair<Integer, Integer>>();
@@ -41,6 +44,9 @@ public class Broda {
 				total += score;
 			}
 			members.add(new Pair<Integer, Integer>(temp, total));
+			//debug
+			System.out.println(" Broda score = " + temp + " " + total);
+			//end debug
 		}
 		Collections.sort(members, comparator);
 		Collections.reverse(members);

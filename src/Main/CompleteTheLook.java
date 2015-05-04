@@ -24,10 +24,11 @@ public class CompleteTheLook {
 		try {
 			featureGraph = new FeatureGraph(file);
 			System.out.println("Graph created successfully");
+			//featureGraph.writeEdgeList();
 			simRank = new SimRank(featureGraph);
 			System.out.println("SimRank initialized.");
 			System.out.println("SimRank calculated for the whole graph.");
-			System.out.println("Similarity between blue short and off white sweater = " + simRank.simRank("Shorts -> Blue", "Sweater -> Off White"));
+//			System.out.println("Similarity between blue short and off white sweater = " + simRank.simRank("Shorts -> Blue", "Sweater -> Off White"));
 			neighbors = new KNearestNeighbors(featureGraph);
 			//neighbors.setK(10);
 			System.out.println("k nearest neighbors initialized");
@@ -52,6 +53,13 @@ public class CompleteTheLook {
 			}
 			
 			System.out.println();
+			System.out.println("The neighbors of \'Necklace -> Gold\'(" + featureGraph.featureToIdentity("Necklace -> Gold") + ") are as follows: ");
+			List<Integer> list4 = neighbors.k_nearest_neighbors("Necklace -> Gold");
+			for(Integer aux : list4) {
+				System.out.println(aux + " = " + featureGraph.identityToFeature(aux));
+			}
+			
+			System.out.println();
 			System.out.println("Final compiled list is as follows");
 			System.out.println();
 			ArrayList<List<Integer>> individualLists = new ArrayList<List<Integer>>();;
@@ -61,7 +69,9 @@ public class CompleteTheLook {
 			Broda b = new Broda();
 			ArrayList<Integer> finalList = b.rankAggregation(individualLists);
 			for(Integer aux : finalList) {
-				System.out.println(aux + " = " + featureGraph.identityToFeature(aux));
+				if(!(aux == featureGraph.featureToIdentity("Sandles -> Black") || aux == featureGraph.featureToIdentity("Bag -> White") || aux == featureGraph.featureToIdentity("Jeans -> Blue"))){
+					System.out.println(aux + " = " + featureGraph.identityToFeature(aux));
+				}
 			}
 		} catch (IOException e) {
 			// TODO Auto-generated catch block

@@ -1,0 +1,42 @@
+12
+1
+Top -> White
+1
+Skirt -> White
+1
+Sneaker -> Black
+1
+Top -> White
+2
+Top -> White
+Skirt -> White
+2
+Skirt -> White
+Sneaker -> Black
+2
+Sneaker -> Black
+Top -> White
+2
+Top -> White
+Top -> White
+3
+Top -> White
+Skirt -> White
+Sneaker -> Black
+3
+Skirt -> White
+Sneaker -> Black
+Top -> White
+3
+Top -> White
+Sneaker -> Black
+Top -> White
+3
+Top -> White
+Skirt -> White
+Top -> White
+--------------
+Top -> White
+Skirt -> White
+Sneaker -> Black
+Top -> White

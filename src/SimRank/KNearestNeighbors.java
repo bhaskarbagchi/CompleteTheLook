@@ -70,11 +70,17 @@ public class KNearestNeighbors {
 		PriorityQueue<Pair<Integer, Double>> pQueue = new PriorityQueue<Pair<Integer, Double>>(K, comparator);
 		Set<Integer> set = new HashSet<Integer>();
 		set = BFS(id);
+		//debug
+		System.out.println("BFS set size = " + set.size());
+		//end debug
 		int count = 0;
 		double aux = 0.0;
 		for(Integer node : set) {
 			if(id != node) {
 				aux = simRank.simRank(id, node);
+				//debug
+				System.out.println("Simrank score with node " + id + "=" + graph.identityToFeature(node) + " = " + aux);
+				//end debug
 				if(count < K){
 					pQueue.add(new Pair<Integer, Double>(node, aux));
 				}
@@ -98,6 +104,9 @@ public class KNearestNeighbors {
 		Collections.sort(list, comparator);
 		Collections.reverse(list);
 		for(Pair<Integer, Double> pair : list) {
+			//debug
+			System.out.println("Returned " + pair.getL() + "->" +  pair.getR());
+			//end debug
 			neighbors.add(pair.getL());
 		}
 		pQueue.clear();
@@ -110,7 +119,7 @@ public class KNearestNeighbors {
 		Set<Integer> set = new HashSet<Integer>();
 		set.add(node);
 		Iterator it = set.iterator();
-		while(it.hasNext() && count < K) {
+		while(it.hasNext() && count < 10*K) {
 			int id = (Integer)(it.next());
 			Map aux = new HashMap();
 			aux = graph.inLinks(id);

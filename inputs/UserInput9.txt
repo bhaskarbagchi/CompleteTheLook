@@ -1,0 +1,52 @@
+15
+1
+Bag -> Black
+1
+Blazer -> Black
+1
+Heels -> Black
+1
+Shorts -> Pink
+1
+Top -> Black
+2
+Bag -> Black
+Blazer -> Black
+2
+Blazer -> Black
+Heels -> Black
+2
+Heels -> Black
+Shorts -> Pink
+2
+Shorts -> Pink
+Top -> Black
+2
+Bag -> Black
+Top -> Black
+3
+Bag -> Black
+Blazer -> Black
+Heels -> Black
+3
+Blazer -> Black
+Heels -> Black
+Shorts -> Pink
+3
+Heels -> Black
+Shorts -> Pink
+Top -> Black
+3
+Bag -> Black
+Shorts -> Pink
+Top -> Black
+3
+Bag -> Black
+Blazer -> Black
+Top -> Black
+---------------
+Bag -> Black
+Blazer -> Black
+Heels -> Black
+Shorts -> Pink
+Top -> Black

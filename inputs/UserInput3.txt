@@ -1,0 +1,91 @@
+27
+1
+Hat -> Black
+1
+Bag -> White
+1
+Bracelet -> Silver
+1
+Coat -> Olive Green
+1
+Shirt -> Black
+1
+Skirt -> Black
+1
+Top -> Black
+1
+Scarf -> Brown
+1
+Hat -> Fedora
+1
+Boots -> Black
+2
+Hat -> Black
+Bag -> White
+2
+Bag -> White
+Bracelet -> Silver
+2
+Bracelet -> Silver
+Coat -> Olive Green
+2
+Coat -> Olive Green
+Shirt -> Black
+2
+Shirt -> Black
+Skirt -> Black
+2
+Skirt -> Black
+Top -> Black
+2
+Top -> Black
+Scarf -> Brown
+2
+Scarf -> Brown
+Hat -> Fedora
+2
+Hat -> Fedora
+Boots -> Black
+3
+Hat -> Black
+Bag -> White
+Bracelet -> Silver
+3
+Bag -> White
+Bracelet -> Silver
+Coat -> Olive Green
+3
+Bracelet -> Silver
+Coat -> Olive Green
+Shirt -> Black
+3
+Coat -> Olive Green
+Shirt -> Black
+Skirt -> Black
+3
+Shirt -> Black
+Skirt -> Black
+Top -> Black
+3
+Skirt -> Black
+Top -> Black
+Scarf -> Brown
+3
+Top -> Black
+Scarf -> Brown
+Hat -> Fedora
+3
+Scarf -> Brown
+Hat -> Fedora
+Boots -> Black
+------------------
+Hat -> Black
+Bag -> White
+Bracelet -> Silver
+Coat -> Olive Green
+Shirt -> Black
+Skirt -> Black
+Top -> Black
+Scarf -> Brown
+Hat -> Fedora
+Boots -> Black

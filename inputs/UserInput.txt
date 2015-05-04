@@ -1,0 +1,93 @@
+1
+3
+Skirt -> Light Brown
+Shirt -> Dark Green
+Scarf -> Brown
+2
+Jeans -> Blue
+Shirt -> White
+3
+Necklace -> Blue
+Pants -> Beige
+Sunglasses -> Gray
+4
+Sweater -> Off White
+T-shirt -> Blue
+Watch -> Gold
+Flats -> Eggshell
+2
+Coat -> Brown
+Boots -> Light Brown
+3
+Dress -> Navy
+Earrings -> Gold
+Boots -> Brown
+2
+Blazer -> Ivory
+Jeans -> Skinny
+4
+Loafer -> White
+Pants -> Olive Green
+Scarf -> Off White
+Shirt -> Blue
+3
+Skirt -> Light Pink
+Shirt -> Off White
+Scarf -> Salmon
+3
+Jeans -> Charcoal Gray
+Top -> Black
+Wedges -> Steve Madden
+2
+Socks -> Black
+Sneakers -> Neon
+2
+T-shirt -> Black
+Shorts -> Blue
+2
+Blazer -> White
+Jeans -> Skinny
+3
+Blazer -> Ivory
+Pants -> Navy
+Sandles -> Steve Madden
+
+
+
+
+
+2
+Shorts -> White
+Heels -> Brown
+2
+Shorts -> White
+Top -> White
+2
+Top -> White
+Bag -> Black
+2
+Shoes -> Brown
+Tights -> Black
+2
+Bag -> Black
+Shoes -> Brown
+3
+Shorts -> White
+Heels -> Brown
+Top -> White
+3
+Bag -> Black
+Shoes -> Brown
+Leggings -> Black
+3
+Shorts -> White
+Top -> White
+Bag -> Black
+3
+Top -> White
+Bag -> Black
+Shoes -> Brown
+3
+Heels -> Brown
+Top -> White
+Tights -> Black

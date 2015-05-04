@@ -1,0 +1,88 @@
+26
+1
+Jacket -> White
+1
+Wedges -> Light Pink
+1
+Flats -> Black
+1
+Headphones -> Black
+1
+Jeans -> Black
+1
+Sandles -> Black
+1
+Heels -> Silver
+1
+Flats -> Black
+1
+Boots -> Black
+2
+Jacket -> White
+Wedges -> Light Pink
+2
+Wedges -> Light Pink
+Flats -> Black
+2
+Flats -> Black
+Headphones -> Black
+2
+Headphones -> Black
+Jeans -> Black
+2
+Jeans -> Black
+Sandles -> Black
+2
+Sandles -> Black
+Heels -> Silver
+2
+Heels -> Silver
+Flats -> Black
+2
+Flats -> Black
+Boots -> Black
+2
+Jacket -> White
+Boots -> Black
+3
+Jacket -> White
+Wedges -> Light Pink
+Flats -> Black
+3
+Wedges -> Light Pink
+Flats -> Black
+Headphones -> Black
+3
+Flats -> Black
+Headphones -> Black
+Jeans -> Black
+3
+Headphones -> Black
+Jeans -> Black
+Sandles -> Black
+3
+Jeans -> Black
+Sandles -> Black
+Heels -> Silver
+3
+Sandles -> Black
+Heels -> Silver
+Flats -> Black
+3
+Heels -> Silver
+Flats -> Black
+Boots -> Black
+3
+Jacket -> White
+Flats -> Black
+Boots -> Black
+-----------------
+Jacket -> White
+Wedges -> Light Pink
+Flats -> Black
+Headphones -> Black
+Jeans -> Black
+Sandles -> Black
+Heels -> Silver
+Flats -> Black
+Boots -> Black

@@ -1,0 +1,62 @@
+18
+1
+Bag -> Red
+1
+Jacket -> Black
+1
+Jacket -> Leather
+1
+Jeans -> Gray
+1
+Heels -> Black
+2
+Bag -> Red
+Jacket -> Black
+2
+Jacket -> Black
+Jacket -> Leather
+2
+Jacket -> Leather
+Jeans -> Gray
+2
+Jeans -> Gray
+Heels -> Black
+2
+Bag -> Red
+Heels -> Black
+2
+Bag -> Red
+Jacket -> Leather
+2
+Bag -> Red
+Jeans -> Gray
+3
+Bag -> Red
+Jacket -> Black
+Jacket -> Leather
+3
+Jacket -> Black
+Jacket -> Leather
+Jeans -> Gray
+3
+Jacket -> Leather
+Jeans -> Gray
+Heels -> Black
+3
+Bag -> Red
+Jeans -> Gray
+Heels -> Black
+3
+Bag -> Red
+Jacket -> Black
+Heels -> Black
+3
+Bag -> Red
+Jacket -> Leather
+Heels -> Black
+---------------
+Bag -> Red
+Jacket -> Black
+Jacket -> Leather
+Jeans -> Gray
+Heels -> Black

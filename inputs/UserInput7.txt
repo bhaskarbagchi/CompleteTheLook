@@ -1,0 +1,52 @@
+15
+1
+Bag -> Black
+1
+Boots -> Brown
+1
+Jacket -> Ruby Red
+1
+Jacket -> Blue
+1
+Jeans -> Black
+2
+Bag -> Black
+Boots -> Brown
+2
+Boots -> Brown
+Jacket -> Ruby Red
+2
+Jacket -> Ruby Red
+Jacket -> Blue
+2
+Jacket -> Blue
+Jeans -> Black
+2
+Bag -> Black
+Jeans -> Black
+3
+Bag -> Black
+Boots -> Brown
+Jacket -> Ruby Red
+3
+Boots -> Brown
+Jacket -> Ruby Red
+Jacket -> Blue
+3
+Jacket -> Ruby Red
+Jacket -> Blue
+Jeans -> Black
+3
+Bag -> Black
+Jacket -> Blue
+Jeans -> Black
+3
+Bag -> Black
+Boots -> Brown
+Jeans -> Black
+-----------------
+Bag -> Black
+Boots -> Brown
+Jacket -> Ruby Red
+Jacket -> Blue
+Jeans -> Black

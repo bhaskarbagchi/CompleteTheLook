@@ -20,7 +20,7 @@
 7,Jacket,Blue,chictopia5
 8,Bag,White,chictopia5
 8,Blouse,White,chictopia5
-8,Pants,Black,chictopia5
+8,Pant,Black,chictopia5
 8,Sandles,Black,chictopia5
 9,Blouse,Navy,chictopia5
 9,Shorts,Navy,chictopia5
@@ -72,14 +72,14 @@
 36,Sunglasses,Silver,chictopia7
 36,Coat,Pink,chictopia7
 36,Heels,Black,chictopia7
-36,Pants,Black,chictopia7
+36,Pant,Black,chictopia7
 36,Top,Black,chictopia7
 37,Flats,Black,chictopia7
 37,Jacket,Black,chictopia7
 37,Jeans,Black,chictopia7
 37,Sweater,White,chictopia7
 37,T-shirt,Gray,chictopia7
-38,Pants,Black,chictopia7
+38,Pant,Black,chictopia7
 38,Sweater,White,chictopia7
 38,Wedge,Black,chictopia7
 38,Bag,Black,chictopia7
@@ -87,16 +87,16 @@
 38,Shirt,Red,chictopia7
 38,Skirt,Black,chictopia7
 39,Jacket,White,chictopia7
-39,Pants,White,chictopia7
+39,Pant,White,chictopia7
 39,T-shirt,White,chictopia7
 39,Wedge,Black,chictopia7
 40,Boots,Black,chictopia7
 40,Hat,Black,chictopia7
 40,Jacket,Black,chictopia7
-40,Pants,Black,chictopia7
+40,Pant,Black,chictopia7
 40,Shirt,White,chictopia7
 41,Bag,Black,chictopia7
-41,Pants,Yellow,chictopia7
+41,Pant,Yellow,chictopia7
 41,Top,White,chictopia7
 41,Wedge,Black,chictopia7
 42,Coat,Black,chictopia7
@@ -113,7 +113,7 @@
 43,Sweater,White,chictopia7
 44,Hat,Black,chictopia7
 44,Heels,Black,chictopia7
-44,Pants,Purple,chictopia7
+44,Pant,Purple,chictopia7
 44,Shirt,Purple,chictopia7
 45,Heels,Black,chictopia7
 45,Jacket,Black,chictopia7
@@ -143,13 +143,13 @@
 51,Shirt,Black,chictopia7
 51,Shorts,Black,chictopia7
 52,Boots,Black,chictopia7
-52,Pants,Gray,chictopia7
+52,Pant,Gray,chictopia7
 52,Top,Navy,chictopia7
 53,Bag,Black,chictopia7
 53,Sandal,Black,chictopia7
 53,Skirt,Black,chictopia7
 53,Top,White,chictopia7
-54,Pants,White,chictopia7
+54,Pant,White,chictopia7
 54,Sandal,Black,chictopia7
 54,Sunglasses,Black,chictopia7
 54,Top,White,chictopia7
@@ -197,7 +197,7 @@
 64,Scarf,Gray,chictopia7
 64,Shirt,Black,chictopia7
 65,Heels,Black,chictopia7
-65,Pants,Teal,chictopia7
+65,Pant,Teal,chictopia7
 65,Shirt,White,chictopia7
 65,Sweater,Teal,chictopia7
 66,Boots,Black,chictopia7
@@ -206,7 +206,7 @@
 66,Sweater,Black,chictopia7
 66,Vest,Silver,chictopia7
 67,Boots,Black,chictopia7
-67,Pants,Black,chictopia7
+67,Pant,Black,chictopia7
 67,Top,Black,chictopia7
 67,Watch,Black,chictopia7
 68,Bag,Black,chictopia7
@@ -217,7 +217,7 @@
 69,Bracelet,Black,chictopia7
 69,Flats,Black,chictopia7
 69,Hat,Brick Red,chictopia7
-69,Pants,Black,chictopia7
+69,Pant,Black,chictopia7
 70,Boots,Black,chictopia7
 70,Top,Black,chictopia7
 70,Vest,White,chictopia7
@@ -253,7 +253,7 @@
 78,Skirt,Black,chictopia7
 79,Bag,Bronze,chictopia7
 79,Coat,Crimson,chictopia7
-79,Pants,Black,chictopia7
+79,Pant,Black,chictopia7
 79,Shoes,Black,chictopia7
 80,Coat,Bubble Gum,chictopia7
 80,Jeans,Black,chictopia7
@@ -269,19 +269,19 @@
 83,Hat,Black,chictopia7
 83,Jacket,Black,chictopia7
 83,Loafer,Black,chictopia7
-83,Pants,Green,chictopia7
+83,Pant,Green,chictopia7
 83,Scarf,Black,chictopia7
 84,Blouse,Purple,chictopia7
 84,Coat,Gray,chictopia7
 84,Flats,Black,chictopia7
-84,Pants,Black,chictopia7
+84,Pant,Black,chictopia7
 84,Sweater,Purple,chictopia7
 85,Loafer,Black,chictopia7
 85,Skirt,Brick Red,chictopia7
 85,Top,Navy,chictopia7
 86,Bag,Black,chictopia7
 86,Coat,White,chictopia7
-86,Pants,Black,chictopia7
+86,Pant,Black,chictopia7
 86,Sweater,Gray,chictopia7
 87,Coat,Gray,chictopia7
 87,Gloves,Army Green,chictopia7
@@ -301,17 +301,17 @@
 90,T-shirt,White,chictopia7
 90,Vest,Eggshell,chictopia7
 91,Coat,Crimson,chictopia7
-91,Pants,Black,chictopia7
+91,Pant,Black,chictopia7
 91,Sweater,Ruby Red,chictopia7
 92,Bag,Black,chictopia7
-92,Pants,Black,chictopia7
+92,Pant,Black,chictopia7
 92,Top,Navy,chictopia7
 93,Boots,Black,chictopia7
 93,Coat,Blue,chictopia7
 93,Jeans,Blue,chictopia7
 93,Sweatskirt,Off White,chictopia7
 94,Coat,Black,chictopia7
-94,Pants,Black,chictopia7
+94,Pant,Black,chictopia7
 94,Scarf,Red,chictopia7
 94,Sunglasses,Gray,chictopia7
 94,Sweater,Black,chictopia7
@@ -322,7 +322,7 @@
 96,Bag,Tan,chictopia7
 96,Hat,Black,chictopia7
 96,Loafer,Black,chictopia7
-96,Pants,Tan,chictopia7
+96,Pant,Tan,chictopia7
 96,Sweater,Bubble Gum,chictopia7
 97,Dress,Black,chictopia7
 97,Hat,Black,chictopia7
@@ -461,7 +461,7 @@
 145,Blouse,Black,chictopia22
 145,Necklace,Silver,chictopia22
 145,Jeans,Blue,chictopia22
-146,Earrings,Silver,chictopia22
+146,Ear-rings,Silver,chictopia22
 146,T-shirt,Charcoal Gray,chictopia22
 146,Jacket,Black,chictopia22
 146,Jeans,Black,chictopia22
@@ -1732,319 +1732,3 @@
 407,Shirt,Beige,chictopia18
 408,Shirt,White,chictopia18
 408,Necklace,Red,chictopia18
-409,Purse,Black,chictopia16
-409,Bag,Brown,chictopia16
-409,Pants,Red,chictopia16
-409,Dress,Black,chictopia16
-410,Shoes,Black,chictopia16
-410,Bag,Bronze,chictopia16
-410,Shirt,White,chictopia16
-411,Bag,Pink,chictopia16
-411,Socks,Black,chictopia16
-411,Heels,,chictopia16
-412,Earrings,Gold,chictopia16
-412,Earrings,Bronze,chictopia16
-412,Sandles,Zara,chictopia16
-412,Boots,BCBG,chictopia16
-412,Belt,Black,chictopia16
-413,Shirt,Black,chictopia16
-414,Bag,Black,chictopia16
-414,Heels,Bronze,chictopia16
-415,Top,Teal,chictopia16
-416,Shoes,Brown,chictopia16
-416,Shorts,Tan,chictopia16
-417,Shoes,Gray,chictopia16
-417,Dress,Purple,chictopia16
-417,Top,White,chictopia16
-417,Bag,Mimi Boutique,chictopia16
-417,Bag,Heather Gray,chictopia16
-417,Shoes,Black,chictopia16
-418,Bag,Gold,chictopia16
-418,Shoes,Beige,chictopia16
-419,Bag,Black,chictopia16
-419,Bag,Black,chictopia16
-419,Sunglasses,Brown,chictopia16
-419,Clogs,Black,chictopia16
-420,Purse,Local,chictopia16
-420,Heels,Bronze,chictopia16
-420,Shoes,Brown,chictopia16
-420,Shoes,Beige,chictopia16
-421,Earrings,Bronze,chictopia16
-421,Necklace,Bronze,chictopia16
-421,Purse,Mimi Boutique,chictopia16
-421,Dress,Tan,chictopia16
-421,Necklace,Gold,chictopia16
-422,Dress,Orange,chictopia16
-422,Jacket,Denim,chictopia16
-422,Necklace,,chictopia16
-422,Earrings,Mimi Boutique,chictopia16
-423,Heels,Burnt Orange,chictopia16
-423,Dress,Blue,chictopia16
-423,Shorts,,chictopia16
-423,Boots,Brown,chictopia16
-423,Skirt,Bubble Gum,chictopia16
-423,Top,White,chictopia16
-424,Skirt,White,chictopia16
-424,Shoes,Brown,chictopia16
-424,Top,White,chictopia16
-424,Bag,Black,chictopia16
-425,Bag,Mimi Boutique,chictopia16
-425,Shoes,Black,chictopia16
-425,Watch,Gold,chictopia16
-425,Bag,Black,chictopia16
-425,Top,Pink,chictopia16
-426,Heels,Black,chictopia16
-426,Shoes,Black,chictopia16
-426,Earrings,Bronze,chictopia16
-427,Dress,Red,chictopia16
-427,Bag,Black,chictopia16
-427,Bag,Mimi Boutique,chictopia16
-427,Jacket,Blue,chictopia16
-427,Belt,Bronze,chictopia16
-428,Belt,Brown,chictopia16
-428,Blazer,Black,chictopia16
-428,Romper,Teal,chictopia16
-428,Shoes,Black,chictopia16
-428,Shoes,Black,chictopia16
-428,Bag,Black,chictopia16
-428,Skirt,Ivory,chictopia16
-429,Shorts,White,chictopia16
-429,Heels,Brown,chictopia16
-429,Top,White,chictopia16
-429,Bag,Black,chictopia16
-429,Shoes,Brown,chictopia16
-429,Leggings,Black,chictopia16
-429,Shoes,,chictopia16
-429,Tights,Black,chictopia16
-430,Skirt,Black,chictopia16
-430,Wedges,Steve Madden,chictopia16
-430,Bag,Dark Brown,chictopia16
-430,Top,White,chictopia16
-430,Shoes,Brown,chictopia16
-431,Purse,Black,chictopia16
-431,Shoes,Black,chictopia16
-431,Flats,Black,chictopia16
-431,Blazer,Navy,chictopia16
-431,Shirt,White,chictopia16
-431,Shorts,Blue,chictopia16
-432,Shoes,Black,chictopia16
-432,Skirt,Black,chictopia16
-432,Necklace,Silver,chictopia16
-432,Shirt,White,chictopia16
-432,Heels,Black,chictopia16
-432,Bag,Black,chictopia16
-432,Skirt,Torquoise Blue,chictopia16
-432,Bag,Brown,chictopia16
-432,Top,White,chictopia16
-432,Dress,Blue,chictopia16
-432,Necklace,Black,chictopia16
-433,Jeans,White,chictopia16
-434,Bag,Silver,chictopia16
-434,Heels,Black,chictopia16
-434,Skirt,,chictopia16
-434,Heels,Black,chictopia16
-434,Ring,Gold,chictopia16
-434,Jeans,Black,chictopia16
-434,Bag,Silver,chictopia16
-434,Vest,Blue,chictopia16
-434,Pants,Black,chictopia16
-434,Top,White,chictopia16
-435,Bag,Ruby Red,chictopia16
-435,T-shirt,White,chictopia16
-435,Earrings,Silver,chictopia16
-436,Blazer,Ivory,chictopia16
-436,Scarf,Silver,chictopia16
-436,Shorts,Black,chictopia16
-436,Shoes,Black,chictopia16
-436,Skirt,Purple,chictopia16
-437,Necklace,Dark Brown,chictopia16
-437,Jacket,Pink,chictopia16
-437,Shorts,White,chictopia16
-437,Shirt,Express,chictopia16
-437,Top,Magenta,chictopia16
-438,Necklace,Brown,chictopia16
-438,Watch,Gold,chictopia16
-439,Shoes,Brown,chictopia16
-439,Shoes,Beige,chictopia16
-439,Dress,White,chictopia16
-439,Bag,Heather Gray,chictopia16
-439,Top,Deep Purple,chictopia16
-439,Skirt,,chictopia16
-439,Belt,Black,chictopia16
-439,Dress,Tan,chictopia16
-439,Heels,Tan,chictopia16
-439,Heels,Brown,chictopia16
-439,Bag,Gold,chictopia16
-439,Bag,Black,chictopia16
-439,Necklace,Torroid,chictopia16
-439,Top,Black,chictopia16
-439,Earrings,White,chictopia16
-439,Belt,Black,chictopia16
-439,Shoes,Silver,chictopia16
-439,Heels,Black,chictopia16
-439,Necklace,Brown,chictopia16
-440,Heels,Tan,chictopia16
-440,Vest,,chictopia16
-440,Heels,Blue,chictopia16
-440,Skirt,Black,chictopia16
-441,Bag,Black,chictopia16
-441,Belt,Black,chictopia16
-441,Sandles,Steve Madden,chictopia16
-441,Hat,,chictopia16
-441,Shoes,Black,chictopia16
-441,Watch,Hot Pink,chictopia16
-441,Pants,Zara,chictopia16
-441,Shirt,Black,chictopia16
-441,Bag,Brown,chictopia16
-441,Ring,Silver,chictopia16
-441,Top,Black,chictopia16
-441,Shoes,Black,chictopia16
-441,Shirt,Blue,chictopia16
-441,Bag,Tawny,chictopia16
-441,Pants,Leather,chictopia16
-441,Top,Silver,chictopia16
-441,Bag,Dark Brown,chictopia16
-441,Romper,Black,chictopia16
-441,Jeans,Blue,chictopia16
-441,Shorts,Black,chictopia16
-441,Bag,Black,chictopia16
-441,Bag,Purple,chictopia16
-441,Earrings,Mimi Boutique,chictopia16
-441,Scarf,,chictopia16
-441,Skirt,Black,chictopia16
-441,Top,White,chictopia16
-441,Bag,Gold,chictopia16
-441,Shoes,Gold,chictopia16
-442,Shoes,White,chictopia16
-442,Ring,Gold,chictopia16
-442,Belt,Brown,chictopia16
-442,Top,White,chictopia16
-442,Bag,Deep Purple,chictopia16
-442,Shoes,Burnt Orange,chictopia16
-442,Bag,Gold,chictopia16
-442,Top,White,chictopia16
-442,Earrings,Gold,chictopia16
-443,Top,White,chictopia16
-443,Dress,Floral,chictopia16
-444,Dress,Blue,chictopia16
-444,Shoes,Blue,chictopia16
-444,Bag,Beige,chictopia16
-444,Belt,Black,chictopia16
-444,Watch,Gold,chictopia16
-444,Shorts,Blue,chictopia16
-444,Bag,Black,chictopia16
-444,Necklace,Gray,chictopia16
-444,Dress,Ivory,chictopia16
-445,Shorts,Camel,chictopia16
-445,Bag,Bronze,chictopia16
-446,Shoes,Black,chictopia16
-446,Purse,Beige,chictopia16
-446,Bracelet,Gold,chictopia16
-446,Bag,,chictopia16
-446,Watch,Casio,chictopia16
-447,Dress,Red,chictopia16
-447,Dress,Blue,chictopia16
-447,Dress,Red,chictopia16
-447,Heels,Dark Brown,chictopia16
-447,Watch,Gold,chictopia16
-447,Bag,Black,chictopia16
-447,Heels,Tan,chictopia16
-447,Belt,Black,chictopia16
-447,Shoes,Brown,chictopia16
-447,Bag,Black,chictopia16
-448,Jeans,Ruby Red,chictopia16
-448,Skirt,Ivory,chictopia16
-449,Earrings,Light Blue,chictopia16
-449,T-shirt,Black,chictopia16
-450,Shoes,Black,chictopia16
-451,Belt,Black,chictopia16
-451,Top,White,chictopia16
-451,Dress,Pink,chictopia16
-451,Cardigan,Black,chictopia16
-451,Pants,Black,chictopia16
-451,Hat,Tan,chictopia16
-452,Necklace,Gold,chictopia16
-452,Skirt,Purple,chictopia16
-452,Top,White,chictopia16
-453,Skirt,Gray,chictopia16
-453,Dress,,chictopia16
-454,Earrings,Gold,chictopia16
-454,Shirt,Light Pink,chictopia16
-454,Cardigan,Black,chictopia16
-455,Skirt,Black,chictopia16
-455,Skirt,Black,chictopia16
-455,Bag,Black,chictopia16
-455,Dress,Purple,chictopia16
-455,Dress,Black,chictopia16
-455,Shoes,Black,chictopia16
-455,Skirt,Gold,chictopia16
-455,Bag,Hot Pink,chictopia16
-455,Heels,Black,chictopia16
-455,Top,White,chictopia16
-455,Bag,Black,chictopia16
-455,Sandles,,chictopia16
-455,Necklace,Torquoise Blue,chictopia16
-455,Dress,Black,chictopia16
-455,Bag,Bronze,chictopia16
-455,Dress,Torquoise Blue,chictopia16
-456,Dress,Purple,chictopia16
-456,Shoes,Black,chictopia16
-456,Dress,Navy,chictopia16
-457,Pants,Hot Pink,chictopia16
-457,Pants,Zara,chictopia16
-457,Dress,Red,chictopia16
-457,Shoes,Black,chictopia16
-457,Skirt,Pink,chictopia16
-457,Bag,Brown,chictopia16
-457,Sunglasses,Brown,chictopia16
-457,Shoes,Brown,chictopia16
-458,Skirt,Purple,chictopia16
-458,Vest,Blue,chictopia16
-458,Earrings,Gold,chictopia16
-458,Necklace,Gray,chictopia16
-458,Shoes,Black,chictopia16
-458,Hat,Beige,chictopia16
-458,Dress,Gold,chictopia16
-458,Bag,Beige,chictopia16
-458,Bracelet,Torquoise Blue,chictopia16
-459,Skirt,Violet,chictopia16
-459,Earrings,Gold,chictopia16
-460,Dress,Beige,chictopia16
-461,Bag,Black,chictopia16
-461,Bag,Tan,chictopia16
-461,Shoes,Black,chictopia16
-461,Dress,Black,chictopia16
-462,Heels,Black,chictopia16
-462,Dress,Purple,chictopia16
-462,Shoes,Black,chictopia16
-462,Skirt,White,chictopia16
-462,Shoes,Black,chictopia16
-462,Shorts,Camel,chictopia16
-462,Shirt,Purple,chictopia16
-462,Top,Black,chictopia16
-463,Bag,Black,chictopia16
-463,Shoes,Blue,chictopia16
-463,Earrings,Gold,chictopia16
-464,Shoes,Black,chictopia16
-464,Dress,Silver,chictopia16
-464,Jeans,Hot Pink,chictopia16
-465,Pants,Ruby Red,chictopia16
-465,Shoes,Black,chictopia16
-465,Purse,Black,chictopia16
-465,Dress,Dark Red,chictopia16
-465,Heels,Tan,chictopia16
-465,Earrings,Bronze,chictopia16
-466,Skirt,Dark Gray,chictopia16
-466,Flats,Black,chictopia16
-466,Shoes,Brown,chictopia16
-466,Necklace,Silver,chictopia16
-466,Ring,Gold,chictopia16
-466,Shirt,Blue,chictopia16
-467,Necklace,White,chictopia16
-467,Necklace,Silver,chictopia16
-467,Necklace,Silver,chictopia16
-467,Jeans,Hot Pink,chictopia16
-467,Top,Blue,chictopia16
-467,Shoes,White,chictopia16
-468,Top,White,chictopia16
-468,Earrings,Silver,chictopia16

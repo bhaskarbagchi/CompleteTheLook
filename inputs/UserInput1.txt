@@ -1,0 +1,60 @@
+17
+1
+Boots -> Black
+1
+Hat -> Black
+1
+Jacket -> Black
+1
+Pants -> Black
+1
+Shirt -> White
+2
+Boots -> Black
+Hat -> Black
+2
+Jacket -> Black
+Pants -> Black
+2
+Hat -> Black
+Jacket -> Black
+2
+Pants -> Black
+Shirt -> White
+2
+Boots -> Black
+Shirt -> White
+3
+Boots -> Black
+Hat -> Black
+Jacket -> Black
+3
+Hat -> Black
+Jacket -> Black
+Pants -> Black
+3
+Jacket -> Black
+Pants -> Black
+Shirt -> White
+3
+Boots -> Black
+Hat -> Black
+Pants -> Black
+3
+Boots -> Black
+Hat -> Black
+Shirt -> White
+3
+Hat -> Black
+Jacket -> Black
+Pants -> Black
+3
+Boots -> Black
+Jacket -> Black
+Shirt -> White
+-------------
+Boots -> Black
+Hat -> Black
+Jacket -> Black
+Pants -> Black
+Shirt -> White

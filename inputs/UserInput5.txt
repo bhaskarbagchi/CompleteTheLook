@@ -1,0 +1,52 @@
+15
+1
+Coat -> Black
+1
+Pants -> Black
+1
+Scarf -> Red
+1
+Sunglasses -> Gray
+1
+Sweater -> Black
+2
+Coat -> Black
+Pants -> Black
+2
+Pants -> Black
+Scarf -> Red
+2
+Scarf -> Red
+Sunglasses -> Gray
+2
+Sunglasses -> Gray
+Sweater -> Black
+2
+Coat -> Black
+Sweater -> Black
+3
+Coat -> Black
+Pants -> Black
+Scarf -> Red
+3
+Pants -> Black
+Scarf -> Red
+Sunglasses -> Gray
+3
+Scarf -> Red
+Sunglasses -> Gray
+Sweater -> Black
+3
+Coat -> Black
+Sunglasses -> Gray
+Sweater -> Black
+3
+Coat -> Black
+Pants -> Black
+Sweater -> Black
+----------------
+Coat -> Black
+Pants -> Black
+Scarf -> Red
+Sunglasses -> Gray
+Sweater -> Black

@@ -1,0 +1,52 @@
+15
+1
+Hat -> Black
+1
+Jeans -> Black
+1
+Sneaker -> Black
+1
+T-shirt -> White
+1
+Vest -> Eggshell
+2
+Hat -> Black
+Jeans -> Black
+2
+Jeans -> Black
+Sneaker -> Black
+2
+Sneaker -> Black
+T-shirt -> White
+2
+T-shirt -> White
+Vest -> Eggshell
+2
+Hat -> Black
+Vest -> Eggshell
+3
+Hat -> Black
+Jeans -> Black
+Sneaker -> Black
+3
+Jeans -> Black
+Sneaker -> Black
+T-shirt -> White
+3
+Sneaker -> Black
+T-shirt -> White
+Vest -> Eggshell
+3
+Hat -> Black
+T-shirt -> White
+Vest -> Eggshell
+3
+Hat -> Black
+Jeans -> Black
+Sneaker -> Black
+-----------------
+Hat -> Black
+Jeans -> Black
+Sneaker -> Black
+T-shirt -> White
+Vest -> Eggshell
